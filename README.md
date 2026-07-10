@@ -89,6 +89,11 @@ The AI-Powered Workforce Analytics & Talent Intelligence Dashboard is developed 
 ### 7.1 Architecture Diagram
 Shows the components and technologies (AWS, Python, MySQL, LLM, RAG, etc.) and how they are connected.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0f37023-d569-4472-ba05-457ef62db359" />
+
+
+
+
 ### 7.2 Workflow Diagram
 Shows the step-by-step business process or data flow.
 
