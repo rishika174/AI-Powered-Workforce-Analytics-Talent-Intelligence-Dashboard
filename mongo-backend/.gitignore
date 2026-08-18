@@ -1,0 +1,7 @@
+.env
+.env.*
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply transition-colors duration-200 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100;
+  }
+}
